@@ -1,14 +1,14 @@
-4P	Product, Price, Place, Promotion	产品，价格，渠道，促销
+5P	Product, Price, Package, Place, Promotion	产品，价格，包装，渠道，促销
 5S	See, Scan, Spot, Show interest, Select	看到，扫视，锁定，表示兴趣，选择
 A&C	Advertising & Consumer promotion expense	广告与促销费用
 AC	Annual contract	年度合同
 AFH	Away from Home	餐饮特渠
 AMEA	Asia, Middle East, Africa	亚洲，中东，非洲
 AR	account receivable	应收账款
-AP		Account payable		应付账款
-Army 1		第一战队		亿滋销售团队
-Army 2		第二战队		专属DT团队
-Army 3		第三战队		县域经销商主管+共享DT团队
+AP	Account payable	应付账款
+Army 1		第一战队（亿滋销售团队）
+Army 2		第二战队（专属DT团队）
+Army 3		第三战队（县域经销商主管+共享DT团队）
 B2B	Business-to-Business	企业对企业
 B2C	Business-to-Consumer	企业对消费者
 BHT	Brand health tracking	品牌健康度跟踪
@@ -17,7 +17,7 @@ BU	Business Unit	业务单元
 C&B	Compensation & Benefits	薪酬福利
 CA!	Chips Ahoy！	趣多多
 CFR	Case fill rate	订单满足率
-CGA	Corporate Government Affairs	企业与政府关系部门
+CGA	Corporate Government Affairs	企业与政府关系
 Club store		会员店
 CNY	Chinese New Year	中国新年
 COC	Check Out Counter	收银台
@@ -28,14 +28,13 @@ CRM	Customer Relationship Management	客户关系管理
 CS&L	Customer Service & Logistics	客户服务与物流
 CVS	Convenience store	便利店
 DC	Distribution center 	配送中心
-DEI	Diversity,  Equity, Inclusion	多元平等包容
-DMR	Distributor Merchandiser Roaming 	经销商流动理货员（专职销售亿滋产品）
+DEI	Diversity, Equity, Inclusion	多元平等包容
 DOM	Distributor Operation Manager	经销商运作经理（专职销售亿滋产品）
 DOS	Days of Stock	库存天数
-DPM	Distributor Permanent Merchandiser	经销商驻店员（专职销售亿滋产品）
-DSF	Distributor Sales Force	经销商销售代表经销商销售人员（专职销售亿滋产品）
+Merchandiser		理货员
 DSO	Days sales outstanding	应收账款变现天数
-DSR	Distributor Responsible (sales supervisor who is responsible for TT channel in current organization)	传统渠道销售主管，RTM后已不再使用，由DSS取代
+DSF	Distributor Sales Force	经销商门店负责人（专职销售亿滋产品）
+DSR	Distributor sales representative	经销商销售代表
 DSS	Distributor Sales Supervisor	经销商销售主管（专职销售亿滋产品）
 DTM	Distributor to market	经销商市场通路
 EAP	Employee Assistance Program	员工帮助计划（是一项由公司付费员工享受第三方公司提供的员工关爱服务模式。）
@@ -60,13 +59,13 @@ HC	Headcount 	编制数
 HQ	Headquarter	总部
 Hyper		大卖场
 IDP	Individual development plan	个人发展计划
-ISA	Instore sales activation	
+ISA	Instore sales activation	售点激活
 JBP	Joint Business Plan	联合商业计划
 JD	Job  Description	岗位描述
 JE	Job evaluation	岗位评估
-KA	Ley account	大客户（如沃尔玛、华润万家）
+KA	Key account	大客户（如沃尔玛、华润万家）
 KPI	Key performance indicator	关键绩效指标
-LKA	Local Key Account	地域大客户
+LKA	Local Key Account	本地重点客户
 LM	Line Manager	直线经理
 LSL Cake	Long-shelf-life Cake	长保蛋糕
 LTSS	Lower Tier Sales Supervisor	亿滋县域销售主管
@@ -76,11 +75,10 @@ MCM	Mondelez City Manger	亿滋城市经理
 MCS	Mondelez City Supervisor	亿滋城市主管
 MDM	Mondelez Distributor Manager	亿滋城市经理（间供）
 MIP	Management Incentive Plan	管理激励计划
-MKT& Growth	Market & Growth	市场与增长部门
-MPM	Mondelez Permanent Merchandiser	亿滋驻店员
+MKT&Growth	Market & Growth	市场与增长部门
 MS	Market share	市场份额
 MSC	Manufacturing & Supply Chain	生产与供应链部门
-MSL	Must Sale List	必分销
+MSL	Must Sale List	必分销清单
 MSM	Mondelez Sales Manager	亿滋城市经理（直供）
 MSR	Mondelez Sales Representative 	亿滋销售代表
 MSR-DT mgmt	Mondelez Sales Representative - Distribution Trade Management	亿滋销售代表-间供管理
@@ -101,7 +99,6 @@ NRD	New Retail Development	新零售发展
 O2O	Online to Offline	线上到线下
 OI	operating income	运营收入
 OOS	out of sales 	缺货
-Operational Target	Operational Target	生意发生地指标-是指大区/小区/KA等在生意实际发生地的指标
 Oreo		奥利奥
 OTD	On time delivery	准时到货率
 OVH	Overhead	正式员工薪酬相关费用
@@ -119,15 +116,14 @@ RDC	Regional distribution center 	区域配送中心
 RDQ	Research development & quality	研发与质量
 RGM	Revenue Growth Management	收益增长管理
 Ritz		乐之
-RKA	Regional Key Account	区域大客户
+RKA	Regional Key Account	区域重点客户
 RMT	Regiona Modern Trade	区域客户管理
 ROI	Return on Investment	投资回报率
 RSD	Regional Sales Director	区域销售负责人
 RSM	Regional Sales Manager	区域销售经理
 RTM	Route to market	市场通路
-SAP Target	SAP Target	送货地指标-是指大区/小区/KA等在公司直接送货地层面的指标
 Semi-controallable		半可控
-SFA	Sales Force Automation	销售能力自动化
+SFA	Sales Force Automation	销售能力自动化（门店拜访工具，追踪销售代表的门店拜访行为，赋能业务主管辅导检查和编排更优的销售路线。）
 SIP	Sales Incentive Plan	销售激励计划
 SKU	Stock Keeping Unit	库存单位
 SLT	Sales Leadership Team	销售领导团队
@@ -147,7 +143,7 @@ Halls				荷氏薄荷糖
 TBC/TBD	To be Confirmed/Determined	待确认
 TC	Technology Center	技术中心
 TD	Territory Distributor	地域经销商
-TDP	Total distribution points	
+TDP	Total distribution points	总分销点数
 TMP	Trade Market Planning	商贸规划
 TS	Trade Spending	商贸费用
 TT	Traditional trade	传统渠道
@@ -165,3 +161,7 @@ WS	Wholesale	批发
 YER	Year End Review	年终回顾
 YTD	Year-to-Date	今年迄今为止
 PEA		Point event Analytics		促销投资分析
+GKAM	Group key account manager	大客户群经理
+ATOM	阿童木	亿滋销售的主数据平台
+Digital	RTM		慧眼		识别高潜门店的数字化工具。利用GPS技术，根据门店地理位置、周边环境等因素，识别高潜门店，提供一双慧眼实现高质量拓店
+Goldeneye/Hawkeye		黄金眼/鹰眼		渠道数据获取与内化的数字工具。销售将零售商/经销商ERP数据与亿滋销售拜访数据结合，从而提供可靠的报告，帮助用户了解核心商业驱动因素，并采取合适行动的业务解决方案
