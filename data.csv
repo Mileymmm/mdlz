@@ -4,13 +4,13 @@ A&C	Advertising & Consumer promotion expense	广告与促销费用
 AC	Annual contract	年度合同
 AFH	Away from Home	餐饮特渠
 AMEA	Asia, Middle East, Africa	亚洲，中东，非洲
-AP/AR	account payable/ account receivable	应付/应收账款
-Army 1		第一战队
-Army 2		第二战队
-Army 3		第三战队
+AR	account receivable	应收账款
+AP		Account payable		应付账款
+Army 1		第一战队		亿滋销售团队
+Army 2		第二战队		专属DT团队
+Army 3		第三战队		县域经销商主管+共享DT团队
 B2B	Business-to-Business	企业对企业
 B2C	Business-to-Consumer	企业对消费者
-Base		基础品
 BHT	Brand health tracking	品牌健康度跟踪
 BIC	Business Intelligence and Capability	商业智能和能力建设
 BU	Business Unit	业务单元
@@ -142,7 +142,8 @@ Super H		大超市
 Super L		小超市
 T&L 	Test and Learn	在测试中学习
 TA	Talent Acquisition	人员招聘
-Tang		荷氏薄荷糖
+Tang		果珍冲饮
+Halls				荷氏薄荷糖
 TBC/TBD	To be Confirmed/Determined	待确认
 TC	Technology Center	技术中心
 TD	Territory Distributor	地域经销商
@@ -163,3 +164,4 @@ WOW	Ways Of Working	工作方式
 WS	Wholesale	批发
 YER	Year End Review	年终回顾
 YTD	Year-to-Date	今年迄今为止
+PEA		Point event Analytics		促销投资分析
