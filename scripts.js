@@ -37,6 +37,7 @@ function fetchCSV() {
             rows.forEach(row => {
                 const [acronym, fullForm, meaning] = row.split('\t');
                 acronymList.push({ acronym, fullForm, meaning });
+                console.log(acronym);
             });
             renderList(acronymList);
             generateAlphabetBar();
